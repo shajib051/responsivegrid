@@ -1,0 +1,25 @@
+.navbar-brand {
+    color:#ffffff !important;
+}
+.bg-dark {
+    background-color: #2e8be8!important;
+}
+ul li a{
+    color:#292424!important;
+}
+ul li a:hover{
+    color: whitesmoke !important;
+    border-bottom: 2px solid greenyellow !important;
+}
+.p1{
+    background-color: greenyellow;
+    color: rgb(0, 60, 255);    
+}
+.p2{
+    background-color: grey;
+    color: rgb(245 245 245);
+}
+.p3{
+    background-color: hotpink;
+    color: rgb(230, 248, 125);
+}
